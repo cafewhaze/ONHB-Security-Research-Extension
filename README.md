@@ -46,7 +46,7 @@ Antes de testar este ou qualquer outro software de segurança, **obtenha sempre 
 
 5. Clique em **"Carregar sem compactação"** ou **"Load unpacked"**.
 
-6. Selecione a pasta **`extension/`**.
+6. Selecione a pasta **`ONHB-Security-Research-Extension/extension/`**.
 
 7. A extensão será adicionada e ficará ativa.
 
@@ -54,7 +54,7 @@ Antes de testar este ou qualquer outro software de segurança, **obtenha sempre 
 
 ## ⚙️ Configuração necessária
 
-* Localize o arquivo **`backend/server.js`** na pasta da extensão.
+* Localize o arquivo **`ONHB-Security-Research-Extension/backend/server.js`** na pasta da extensão.
 * **Modifique o arquivo `server.js`** para inserir as configurações corretas do seu banco de dados ou servidor de coleta de dados.
 
 Por padrão, esta extensão está configurada para funcionar com um **servidor Node.js** e um **banco de dados MongoDB**.
